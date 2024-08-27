@@ -22,7 +22,7 @@
     "mocha": "2.5.3",
     "offline-plugin": "3.4.2",
     "standard": "7.1.2",
-    "webpack": "2.2.0-rc.0"
+    "webpack": "5.94.0"
   },
   "dependencies": {
     "codemirror": "5.28.0",
